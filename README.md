@@ -1,9 +1,9 @@
-Bitcoin Core integration/staging tree
+Bitcoin Official integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://bitcoincore.org
+https://bitcoinofficial.org
 
 What is Bitcoin?
 ----------------
@@ -11,25 +11,25 @@ What is Bitcoin?
 Bitcoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
+out collectively by the network. Bitcoin Official is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see https://bitcoin.org/en/download, or read the
-[original whitepaper](https://bitcoincore.org/bitcoin.pdf).
+the Bitcoin Official software, see https://bitcoinofficial.org/en/download, or read the
+[original whitepaper](https://bitcoinofficial.org/bitcoin.pdf).
 
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Bitcoin Official is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Bitcoin Core.
+completely stable. [Tags](https://github.com/bitcoinofficial/bitcoin/tags) are created
+regularly to indicate new official, stable release versions of Bitcoin Official.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
